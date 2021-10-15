@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="114.24000000000001mm"
+   height="113.14993454391968mm"
+   viewBox="0 0 114.24000000000001 113.14993454391968"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="sensor_lower_plate.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1197"
+     inkscape:window-height="679"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.55184891"
+     inkscape:cx="-9.718621"
+     inkscape:cy="213.82664"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="Sketch023"
+     transform="translate(45.487748,43.066106) scale(1,-1)"
+     style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="Sketch023_w0000"
+       d="M -2.8527449999999988 31.155627 L 39.069999 31.155627 L 39.069999 16.084225 L -2.8527449999999988 16.084225 L -2.8527449999999988 31.155627 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch023_w0001"
+       d="M -2.8527449999999988 6.155626999999999 L 39.069999 6.155626999999999 L 39.069999 -8.915775 L -2.8527449999999988 -8.915775 L -6.852744999999999 -8.915775 L -6.852744999999999 6.155626999999999 L -2.8527449999999988 6.155626999999999 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch023_w0002"
+       d="M -2.8527449999999988 -18.844373 L 39.069999 -18.844373 L 39.069999 -33.915775 L -2.8527449999999988 -33.915775 L -2.8527449999999988 -18.844373 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch023_w0003"
+       d="M -2.8527449999999988 -43.844373000000004 L 39.069999 -43.844373000000004 L 39.069999 -58.915775 L -2.8527449999999988 -58.915775 L -2.8527449999999988 -43.844373000000004 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch023_w0004"
+       d="M -44.3677480800187 39.99113919282948 L 67.63225191998131 41.94610646478986 L 67.6322519199813 -68.96382807912983 L -44.3677480800187 -67.00886080717052 L -44.3677480800187 39.99113919282948 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <title
+       id="title7">b'Sketch023'</title>
+  </g>
+</svg>

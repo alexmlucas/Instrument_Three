@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="151.47586011693903mm"
+   height="154.33782817014742mm"
+   viewBox="0 0 151.47586011693903 154.33782817014742"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="outer_frame4b.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1251"
+     inkscape:window-height="743"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.40457785"
+     inkscape:cx="-21.474575"
+     inkscape:cy="291.66204"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     id="Sketch045"
+     transform="translate(65.981025,63.818064) scale(1,-1)"
+     style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="Sketch045_w0000"
+       d="M 81.00313219434857 59.27959808412195 L 84.00265682095821 59.33300233828069 L 84.00265682095821 62.33300625219801 L -49.495967821783495 59.955990601254065 A 15 15 0 0 1 -64.496 44.956L -64.4957508244789 -71.98570640250783 A 15 15 0 0 1 -49.4958 -86.9857L 66.00423400000375 -89.03470701369571 L 66.00423400000375 -73.04234724631074 L -48.46856700000051 -71.01156915079986 L -48.46856700000051 43.97435184744765 L 84.00265682095821 46.33290121320169 L 84.00977739090182 55.83312905442331 L 81.003132 55.779598 L 81.00313219434857 59.27959808412195 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch045_w0001"
+       d="M -52.39768878864669 48.956229 L -52.39768878864669 51.956229 L -54.995765000000006 53.456229 L -57.59384121135332 51.956229 L -57.59384121135332 48.956229 L -54.995765000000006 47.456229 L -52.39768878864669 48.956229 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch045_w0002"
+       d="M 76.10231021135706 53.14614393700943 L 76.10231021135706 56.14614393700943 L 73.50423400000375 57.64614393700943 L 70.90615778865043 56.14614393700943 L 70.90615778865043 53.14614393700943 L 73.50423400000375 51.64614393700943 L 76.10231021135706 53.14614393700943 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch045_w0003"
+       d="M -52.39768878864617 -78.97394399999982 L -52.39768878864614 -75.97394399999997 L -54.99576500000028 -74.47394399999969 L -57.59384121135363 -75.97394400000002 L -57.59384121135363 -78.97394399999983 L -54.99576499999991 -80.47394400000009 L -52.39768878864617 -78.97394399999982 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Sketch045_w0004"
+       d="M -54.39768878864668 -15.008857500000001 L -54.39768878864668 -12.008857500000001 L -56.995765 -10.508857500000001 L -59.593841211353315 -12.008857500000001 L -59.593841211353315 -15.008857500000001 L -56.995765 -16.5088575 L -54.39768878864668 -15.008857500000001 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.025;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <title
+       id="title7">b'Sketch045'</title>
+  </g>
+</svg>
